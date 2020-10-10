@@ -1,15 +1,26 @@
-import { css } from '@emotion/css'
-import tw from '@tailwindcssinjs/macro'
-import ButtonCss from '../components/ButtonCss'
-import ButtonReact from '../components/ButtonReact'
-import ButtonStyled from '../components/ButtonStyled'
+import { getAllPages } from '../lib/api'
+import Link from 'next/link'
 
-const Index = () => (
-  <div className={css(tw`grid justify-center items-center h-screen`)}>
-    <ButtonCss>@emotion/css</ButtonCss>
-    <ButtonReact>@emotion/react</ButtonReact>
-    <ButtonStyled>@emotion/styled</ButtonStyled>
+
+const Index = ({ allPages }) => (
+  <div className='grid justify-center items-center h-screen prose'>
+    <ul>
+       {allPages.map(({title, slug}) => (
+         <li>
+          <Link href={`/pages/${slug}`}>
+            <a>{title}</a>
+          </Link>
+         </li>
+      ))}
+      </ul>
   </div>
 )
+
+export async function getStaticProps() {
+  const allPages = getAllPages()
+  return {
+    props: { allPages },
+  }
+}
 
 export default Index

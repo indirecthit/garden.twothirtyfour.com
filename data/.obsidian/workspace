@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "414273f135645c21",
+    "type": "split",
+    "children": [
+      {
+        "id": "e620c34d1e58a632",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Product Management.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "574920dc60b0aaa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2f794de2acb0be5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f24e3d00e456168",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7bd11dba2403685",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          },
+          {
+            "id": "7ff3e25556068d40",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76a748c3ee207e01",
+    "type": "split",
+    "children": [
+      {
+        "id": "62000a99afefc21e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55b72b5768786952",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Product Management.md"
+              }
+            }
+          },
+          {
+            "id": "376c73fa8c4ea520",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a7fb68bee2ae456",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Product Management.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "Product Management.md",
+    "Organizations.md",
+    "Product Vision.md",
+    "Vision.md",
+    "Collecting Ideas from Stakeholders & Customers.md",
+    "Untitled.md",
+    "product.md",
+    "Writing.md",
+    "2020-09-05.md"
+  ]
+}

@@ -3,26 +3,41 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next export",
     "start": "next start",
     "build:base-css": "tailwindcss build ./styles/tailwind.base.css -o ./styles/base.css"
   },
   "dependencies": {
-    "@emotion/css": "^11.0.0-next.12",
-    "@emotion/react": "^11.0.0-next.12",
-    "@emotion/styled": "^11.0.0-next.12",
+    "gray-matter": "^4.0.2",
+    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-optipng": "^8.0.0",
     "next": "latest",
+    "next-compose-plugins": "^2.2.0",
+    "next-optimized-images": "^2.6.2",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "remark": "^13.0.0-alpha.1",
+    "remark-footnotes": "^3.0.0",
+    "remark-html": "^13.0.1",
+    "remark-parse": "^8.0.3",
+    "remark-react": "^8.0.0",
+    "responsive-loader": "^2.2.0",
+    "sharp": "^0.26.1",
+    "title": "^3.4.2",
+    "unified": "^9.2.0",
+    "url-slug": "^3.0.0-beta.3",
+    "webp-loader": "^0.6.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
-    "@emotion/babel-plugin": "^11.0.0-next.12",
-    "@emotion/server": "^11.0.0-next.12",
-    "@tailwindcss/ui": "^0.2.2",
-    "@tailwindcssinjs/macro": "^0.3.1",
+    "@tailwindcss/typography": "^0.2.0",
+    "@tailwindcss/ui": "^0.6.2",
+    "autoprefixer": "9.8.6",
     "babel-plugin-macros": "2.8.0",
-    "tailwindcss": "^1.6.0"
+    "postcss": "^8.1.1",
+    "postcss-import": "^12.0.1",
+    "tailwindcss": "^1.8.12",
+    "unist-util-visit": "^2.0.3"
   },
   "license": "MIT"
 }
