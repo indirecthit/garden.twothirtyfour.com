@@ -1,6 +1,10 @@
 const defaultTheme = require("tailwindcss/defaultTheme");
 
 module.exports = {
+  future: {
+    removeDeprecatedGapUtilities: true,
+    purgeLayersByDefault: true,
+  },
   theme: {
     typography: (theme) => ({
       default: {
@@ -22,10 +26,11 @@ module.exports = {
     },
   },
   variants: {},
-  purge: [
+  purge: {
+    content: [
     './**/*.html',
     './**/*.js',
     './**/*.jsx',
-  ],
+  ]},
   plugins: [require("@tailwindcss/typography")],
 };
