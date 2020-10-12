@@ -1,39 +1,10 @@
 import { getAllPages, getPageBySlug } from "../../lib/api";
 import Layout from "../../components/layout";
-import remark2react from "remark-react";
-import remark from "remark";
 import Head from 'next/head'
-var footnotes = require("remark-footnotes");
-
-import ObsidianImage from "../../components/obsidian-image";
-var obsidianLinks = require("../../lib/remark-obsidian-links");
-var obsidianImages = require("../../lib/remark-obsidian-images");
-var increaseHeadings = require("../../lib/remark-increase-heading");
-
-const customHandler = (type) => (h, node) => {
-  const props = { node };
-
-  return h(node, type, props);
-};
+import { markdown2html } from "../../lib/markdown2html";
 
 export default function Page({ page }) {
-  const content = remark()
-    .use(footnotes, { inlineNotes: true })
-    .use(increaseHeadings)
-    .use(obsidianImages) //Has to be before Links, otherwise the Links code processes images
-    .use(obsidianLinks)
-    .use(remark2react, {
-      sanitize: false,
-      remarkReactComponents: {
-        obsidianimage: ObsidianImage,
-      },
-      toHast: {
-        handlers: {
-          obsidianimage: customHandler("obsidianimage"),
-        },
-      },
-    })
-    .processSync(page.content).result;
+  const content = markdown2html(page.content)
 
   return (
     <Layout>

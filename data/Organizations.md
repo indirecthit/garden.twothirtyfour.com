@@ -4,7 +4,7 @@ An organization is a collection of people working toward a shared goal. It gets 
 - If a problem needs to be solved quickly, design a process or [[Policies]].
 - If a problem can be solved slowly, design your culture.
 
-Defining [[Vision]] and [[goals]] is only part of what you need to do. You need to figure out how a team should work to get there. Consider defining how a team should work. It's the master branch that teams can fork and experiment with. But it helps provide a framework to fall back on.
+Defining [[Vision]] and [[Goals]] is only part of what you need to do. You need to figure out how a team should work to get there. Consider defining how a team should work. It's the master branch that teams can fork and experiment with. But it helps provide a framework to fall back on.
 
 ## Organization Hierarchy
 > The opposite of top-down is not bottom-up, but outside-in. GEs Jack Welch once defined hierarchical organizations as places in which 'everyone has their face toward the CEO and their ass toward the customer' The focal point is the customer who defines the organizations purpose and thus the value work that it exists to carry out.

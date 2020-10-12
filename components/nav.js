@@ -31,7 +31,7 @@ function Nav() {
         <Link href="/">
           <a className="block mt-4 lg:inline-block lg:mt-0 text-purple-600 hover:text-purple-800 mr-4">Home</a>
         </Link>
-
+{/*
           <a
             href="#responsive-header"
             className="block mt-4 lg:inline-block lg:mt-0 text-purple-600 hover:text-purple-800 mr-4"
@@ -43,7 +43,7 @@ function Nav() {
             className="block mt-4 lg:inline-block lg:mt-0 text-purple-600 hover:text-purple-800"
           >
             Blog
-          </a>
+          </a> */}
         </div>
         <div>
           <a
