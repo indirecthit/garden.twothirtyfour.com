@@ -17,7 +17,7 @@ The [[Product Vision]] lives at many levels, there is no single vision but a hie
 **Important Reminder**: You do not have to come up with the answers by yourself. You are a curator of ideas, not the creator.
 
 ## Show the Path
-This all comes down to [[Prioritization]]. The [[Product Manager]] is responsible for understanding the available information to decide in what order something should be done.
+This all comes down to [[Product Decisions]] and specifically [[Prioritization]]. The [[Product Manager]] is responsible for understanding the available information to decide in what order something should be done.
 
 - The [[Product Strategy]] is your main tool to communicate and describe the path. It outlines how we will win, what we will focus on, and what we will ignore.
 - [[Product Principles]] help us make decisions on which fork we should walk. They provide defaults to tough decisions and define the type of product we are building.
@@ -30,10 +30,6 @@ This all comes down to [[Prioritization]]. The [[Product Manager]] is responsibl
 
 ## Get there Fast
 - Guiding Decisions
-
-### Process
-Process does not exist to be blindly followed. It exists for efficiency (provides defaults) and to avoid repeating mistakes. 
-
 - [[Team Building]]
 - [[Development Methodologies]]
 

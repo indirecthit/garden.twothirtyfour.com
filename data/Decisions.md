@@ -1,0 +1,2 @@
+- Most decisions come down to 3 choices: persevere, stop, or change
+- 

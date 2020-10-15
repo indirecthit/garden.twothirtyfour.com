@@ -1,0 +1,1 @@
+See [Hypothesis Trees](https://caseprep.wordpress.com/2014/02/13/how-to-build-hypothesis-trees/)
