@@ -17,5 +17,5 @@
   },
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "attachments/"
+  "attachmentFolderPath": "attachments"
 }

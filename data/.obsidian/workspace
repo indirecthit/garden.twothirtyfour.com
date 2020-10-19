@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Product Decisions.md",
+            "file": "Product Strategy.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product Decisions.md"
+                "file": "Product Strategy.md"
               }
             }
           },
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product Decisions.md"
+                "file": "Product Strategy.md"
               }
             }
           }
@@ -101,15 +101,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Product Decisions.md",
-    "AB Testing.md",
-    "Hypothesis Trees.md",
+    "Product Strategy.md",
     "Product Management.md",
-    "Product Principles.md",
+    "Strategy.md",
+    "Team Communication.md",
+    "One Way Streets.md",
+    "DACI.md",
+    "Urban Planning.md",
+    "Index.md",
     "Decisions.md",
-    "Product.md",
-    "Untitled.md",
-    "Collecting Ideas from Stakeholders & Customers.md",
-    "Policies.md"
+    "Flawed Incentives.md"
   ]
 }

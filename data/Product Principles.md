@@ -1,4 +1,8 @@
+# Common Principles
+- The level of [[Customization, Configuration, Convention]] your product should provide
 
+
+# Permanent Assumptions
 See [Permanent Assumptions by Collaborative Fund](https://www.collaborativefund.com/blog/permanent-assumptions/):
 > Some things are always changing and can’t be known. There can also be a handful of things you have unshakable faith in – your permanent assumptions.
 

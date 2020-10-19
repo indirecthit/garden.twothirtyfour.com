@@ -6,7 +6,7 @@ TODO
 # Responsibilities
 - **Set the destination**: Collect information to decide the destination of the product and team.
 - **Show the Path**: Help your team find and follow the shortest and clearest path to the destination. 
-- **Get there Fast**: Uplevel the team, help them make decisions, remove roadblocks, offer an extra pair of hands
+- **Increase velocity**: Uplevel the team, help them make decisions, remove roadblocks, offer an extra pair of hands
 - **Communication**: You are the connector between groups and people, you are there to facilitate communication.
 
 ## Set the Destination
@@ -21,15 +21,26 @@ This all comes down to [[Product Decisions]] and specifically [[Prioritization]]
 
 - The [[Product Strategy]] is your main tool to communicate and describe the path. It outlines how we will win, what we will focus on, and what we will ignore.
 - [[Product Principles]] help us make decisions on which fork we should walk. They provide defaults to tough decisions and define the type of product we are building.
+- Focus on [[Leverage]] (maximizing impact for a given effort) not [[Efficiency]] (maximizing effort for a given impact)
 
 ### Inputs
-- Data 
-- Our Customers - Qualitative research from talking to our customers through [[User Research]]. Common outputs include [[User Personas]], 
-- The Industry - Looking at [[Competitors]], 
-- Trends - 
+- Data - [[Analytics]]
+- Stakeholders - Talking to [[Sales]], [[Customer Support]], [[Customer Success]] teams.
+- Our Customers - Qualitative research from talking to our customers through [[User Research]], [[Surveys]]. Common outputs include [[User Personas]], 
+- The Industry - Look at [[Competitors]], industry reports, 
+- Trends - Look at other industries to see the innovations happening
 
-## Get there Fast
+### Outputs
+- [[Product Requirements]] - Main document here is a 1-pager
+- [[User Stories]]
+
+## Increase velocity 
+The key word here is **velocity**. Velocity is different from speed, it's a vector that combines speed with direction and you can *add them together*. Your team's impact is the sum of all the individual vectors (the people on your team), you are there to make sure your team is pointed in the same direction to create maximum impact. [^ElonMusk]
+
+TODO diagrams representing this
+
 - Guiding Decisions
+- [[Team Communication]]
 - [[Team Building]]
 - [[Development Methodologies]]
 
@@ -39,3 +50,4 @@ This all comes down to [[Product Decisions]] and specifically [[Prioritization]]
 - [[Documentation]]
 - [[Meetings]]
 
+[^ElonMusk]: [What Elon Musk Taught Me About Growing A Business by Dharmesh Shah](https://thinkgrowth.org/what-elon-musk-taught-me-about-growing-a-business-c2c173f5bff3)

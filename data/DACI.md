@@ -1,0 +1,4 @@
+- D = Driver — the person who shepherds the decision
+- A = Approver — the person making the final call, ideally one person. If it’s a committee, then it should be an odd number of people.
+- C = Contributor — all persons providing data and point of view to build the options and pros/cons table.
+- I = Informed — all persons who are interested in the decision outcome, and whose work may be impacted by the outcome.
