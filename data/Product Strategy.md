@@ -10,7 +10,7 @@ A good product strategy has:
 - Everyone is very clear it is not a promise
 - A quick summary that people understand and remember
 
-# Elements of a Product Strategy
+## Elements of a Product Strategy
 This is not a required list, choose what you need from this list to create your strategy.
 - The goal - What are we trying to achieve?
 - The customer and user segments - Who are we going after?
@@ -33,6 +33,6 @@ Based on [Jamie Arnold's article Seven questions to build a roadmap](https://www
 - What are our dependencies?
 - What capabilities do we need?
 
-With this approach, Jamie argues that you should use a timeline that creates discomfort and forces them to think beyond the immediate deadline. He recommends "3 or 6 monthly intervals over 1 or 2 years."
+With this approach, Jamie argues that you should use a timeline to map out the answers.  He recommends "3 or 6 monthly intervals over 1 or 2 years" for the timeline, a length that creates discomfort and forces them to think beyond the immediate deadline.
 
 

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Product Strategy.md",
+            "file": "Prioritization.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product Strategy.md"
+                "file": "Prioritization.md"
               }
             }
           },
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product Strategy.md"
+                "file": "Prioritization.md"
               }
             }
           }
@@ -101,6 +101,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Prioritization.md",
     "Product Strategy.md",
     "Product Management.md",
     "Strategy.md",
@@ -109,7 +110,6 @@
     "DACI.md",
     "Urban Planning.md",
     "Index.md",
-    "Decisions.md",
-    "Flawed Incentives.md"
+    "Decisions.md"
   ]
 }

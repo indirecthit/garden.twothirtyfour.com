@@ -6,7 +6,7 @@ const requireContext = require.context('../data', true, /\.(svg|png|jpg|jpeg|gif
 
 function ObsidianImage({ node }) {
   if(isImgExt(node.url)) {
-    const multipleSizes = requireContext(`../data/${node.url}?resize&sizes[]=300&sizes[]=600&sizes[]=1000`);
+    const multipleSizes = requireContext(`../data/attachments/${node.url}?resize&sizes[]=300&sizes[]=600&sizes[]=1000`);
     return (
       <div>
         <img srcSet={multipleSizes.srcSet} src={multipleSizes.src} />
