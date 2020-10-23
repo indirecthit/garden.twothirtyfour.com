@@ -2,7 +2,7 @@
 
 
 # Avoiding Bad Decisions
-- [[Flawed Incentives]] - Incentives can push people to make bad ([[Moral]], [[Ethical]], etc) decisions.
+- [[Incentives as Motivation]] - Incentives can push people to make bad ([[Moral]], [[Ethical]], etc) decisions.
 
 ## Belonging
 Tribal instincts reduce the ability to challenge bad ideas because no one wants to get kicked out of the tribe.

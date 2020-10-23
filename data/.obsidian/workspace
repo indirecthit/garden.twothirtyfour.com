@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prioritization.md",
+            "file": "Pricing.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prioritization.md"
+                "file": "Pricing.md"
               }
             }
           },
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prioritization.md"
+                "file": "Pricing.md"
               }
             }
           }
@@ -101,15 +101,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "Leadership.md",
+    "One Way Streets.md",
+    "Organizations.md",
+    "Metrics.md",
+    "North Star.md",
+    "Flawed Incentives.md",
     "Prioritization.md",
     "Product Strategy.md",
-    "Product Management.md",
-    "Strategy.md",
-    "Team Communication.md",
-    "One Way Streets.md",
-    "DACI.md",
-    "Urban Planning.md",
-    "Index.md",
-    "Decisions.md"
+    "Product Management.md"
   ]
 }

@@ -1,0 +1,4 @@
+- More strategic
+- Helps to make decisions but generally requires other metrics to understand how to impact this metric
+- Should be directly connected to the value the product provides and how the product generates revenue
+- Important to read [[Incentives as Motivation]] to understand how only having a single North Star metric could have a detrimental affect. 
