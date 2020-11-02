@@ -18,7 +18,7 @@ const Index = ({ recentPages, indexPage }) => {
         <h2>Recent Updates</h2>
         <ul>
           {recentPages.map(({ title, slug }) => (
-            <li>
+            <li key={slug}>
               <Link href={`/pages/${slug}`}>
                 <a>{title}</a>
               </Link>

@@ -12,7 +12,7 @@ export default function Page({ page }) {
         <title>{page.title} | Chris's Digital Garden</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
-      <article className="prose prose-sm sm:prose lg:prose-lg">
+      <article className="prose prose-sm sm:prose lg:prose-lg markdown">
         <h1>{page.title}</h1>
         {content}
       </article>

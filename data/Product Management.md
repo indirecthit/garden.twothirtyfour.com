@@ -47,7 +47,11 @@ TODO diagrams representing this
 ## Communication
 - [[Roadmaps]]
 - [[Collecting Ideas from Stakeholders & Customers]]
-- [[Documentation]]
+- [[Documentation]] as [[Product Requirements Documents]]
 - [[Meetings]]
+- [[Creating Internal Team Interfaces]] and [[Creating External Stakeholder Interfaces]]
+
+# Other Product Management Frameworks
+- [[Tactical vs Strategy and Technical vs Business]]
 
 [^ElonMusk]: [What Elon Musk Taught Me About Growing A Business by Dharmesh Shah](https://thinkgrowth.org/what-elon-musk-taught-me-about-growing-a-business-c2c173f5bff3)

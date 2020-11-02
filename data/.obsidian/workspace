@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pricing.md",
+            "file": "Product Requirements Documents.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pricing.md"
+                "file": "Product Requirements Documents.md"
               }
             }
           },
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pricing.md"
+                "file": "Product Requirements Documents.md"
               }
             }
           }
@@ -101,15 +101,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Product Requirements Documents.md",
+    "Product Management.md",
+    "Creating External Stakeholder Interfaces.md",
+    "Creating Internal Team Interfaces.md",
+    "Tactical vs Strategy and Technical vs Business.md",
     "Untitled.md",
     "Leadership.md",
     "One Way Streets.md",
     "Organizations.md",
-    "Metrics.md",
-    "North Star.md",
-    "Flawed Incentives.md",
-    "Prioritization.md",
-    "Product Strategy.md",
-    "Product Management.md"
+    "Metrics.md"
   ]
 }
