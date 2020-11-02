@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Product Requirements Documents.md",
+            "file": "Team Health Checks.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "tag:#documentation"
               }
             }
           },
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product Requirements Documents.md"
+                "file": "Team Health Checks.md"
               }
             }
           },
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product Requirements Documents.md"
+                "file": "Team Health Checks.md"
               }
             }
           }
@@ -101,15 +101,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Product Requirements Documents.md",
-    "Product Management.md",
-    "Creating External Stakeholder Interfaces.md",
-    "Creating Internal Team Interfaces.md",
-    "Tactical vs Strategy and Technical vs Business.md",
-    "Untitled.md",
-    "Leadership.md",
+    "Team Health Checks.md",
+    "Collecting Ideas from Stakeholders & Customers.md",
+    "Feedback.md",
     "One Way Streets.md",
-    "Organizations.md",
-    "Metrics.md"
+    "Product Management.md",
+    "Expectations and Career Levels for Product Managers.md",
+    "Leading Product Managers.md",
+    "Product Requirements Documents.md",
+    "Figma Product Requirements Document.md",
+    "Tactical vs Strategy and Technical vs Business.md"
   ]
 }

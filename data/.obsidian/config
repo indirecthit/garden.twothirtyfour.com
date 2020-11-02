@@ -18,5 +18,5 @@
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "attachments",
-  "fileSortOrder": "byModifiedTime"
+  "fileSortOrder": "alphabetical"
 }

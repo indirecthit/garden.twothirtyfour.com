@@ -1,4 +1,5 @@
 - [[Frameworks]]
+- [[Leading Product Managers]]
 
 # What is Product Management?
 TODO
@@ -43,15 +44,16 @@ TODO diagrams representing this
 - [[Team Communication]]
 - [[Team Building]]
 - [[Development Methodologies]]
+- [[Team Health Checks]]
 
 ## Communication
 - [[Roadmaps]]
 - [[Collecting Ideas from Stakeholders & Customers]]
 - [[Documentation]] as [[Product Requirements Documents]]
 - [[Meetings]]
-- [[Creating Internal Team Interfaces]] and [[Creating External Stakeholder Interfaces]]
+- [[Interfaces as a communication model]]: [[Creating Internal Team Interfaces]] and [[Creating External Stakeholder Interfaces]]
 
-# Other Product Management Frameworks
+# Other Useful Product Management Frameworks
 - [[Tactical vs Strategy and Technical vs Business]]
 
 [^ElonMusk]: [What Elon Musk Taught Me About Growing A Business by Dharmesh Shah](https://thinkgrowth.org/what-elon-musk-taught-me-about-growing-a-business-c2c173f5bff3)
