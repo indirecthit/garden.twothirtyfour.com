@@ -8,39 +8,45 @@
     "build:base-css": "tailwindcss build ./styles/tailwind.base.css -o ./styles/base.css"
   },
   "dependencies": {
+    "@mermaid-js/mermaid-cli": "^8.9.0",
+    "add": "^2.0.6",
     "gray-matter": "^4.0.2",
     "imagemin-mozjpeg": "^9.0.0",
     "imagemin-optipng": "^8.0.0",
-    "next": "10.0.0",
-    "next-compose-plugins": "^2.2.0",
+    "next": "10.0.7",
+    "next-compose-plugins": "^2.2.1",
     "next-optimized-images": "^2.6.2",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "remark": "^13.0.0",
+    "remark-external-links": "^8.0.0",
     "remark-footnotes": "^3.0.0",
     "remark-html": "^13.0.1",
     "remark-parse": "^9.0.0",
     "remark-react": "^8.0.0",
     "remark-slug": "^6.0.0",
-    "remark-toc": "^7.0.0",
+    "remark-toc": "^7.1.0",
     "remark-unwrap-images": "^2.0.0",
-    "responsive-loader": "^2.2.0",
-    "sharp": "^0.26.2",
+    "responsive-loader": "^2.3.0",
+    "sharp": "^0.27.1",
     "title": "^3.4.2",
     "unified": "^9.2.0",
-    "url-slug": "^3.0.0-beta.3",
-    "webp-loader": "^0.6.0"
+    "url-slug": "^3.0.1",
+    "webp-loader": "^0.6.0",
+    "yarn": "^1.22.10"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.3",
-    "@tailwindcss/typography": "^0.2.0",
-    "@tailwindcss/ui": "^0.6.2",
-    "autoprefixer": "10.0.1",
-    "babel-plugin-macros": "2.8.0",
-    "postcss": "^8.1.4",
-    "postcss-import": "^13.0.0",
-    "tailwindcss": "^1.9.6",
+    "@babel/core": "^7.12.17",
+    "@tailwindcss/typography": "^0.4.0",
+    "autoprefixer": "10.2.4",
+    "babel-plugin-macros": "3.0.1",
+    "postcss": "^8.2.6",
+    "postcss-import": "^14.0.0",
+    "tailwindcss": "^2.0.3",
     "unist-util-visit": "^2.0.3"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "browser":{
+    "child_process": false
+  }
 }
