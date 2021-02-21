@@ -2,7 +2,16 @@
 - Don't worry too much about definitions (what is strategy vs principles vs vision etc). The most important thing is that you cover everything
 - You should never create a strategy alone. It is a group activity.
 - That said, you as the facilitator are the curator.
-- 
+
+# Strategy Frameworks
+## Porter's 5 Forces
+![[Pasted image 20201208201414.png]]
+
+## Porter's Generic Strategies
+![[Pasted image 20201208201515.png]]
+
+## Helmer's 7 Powers
+![[Pasted image 20201208201604.png]]
 
 # Communicating Strategy
 - Come up with a catchy phrase that represents the strategy

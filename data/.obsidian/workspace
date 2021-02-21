@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Team Health Checks.md",
+            "file": "Creating External Stakeholder Interfaces.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#documentation"
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -72,7 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Team Health Checks.md"
+                "file": "Creating External Stakeholder Interfaces.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -81,7 +91,10 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {}
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -90,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Team Health Checks.md"
+                "file": "Creating External Stakeholder Interfaces.md"
               }
             }
           }
@@ -101,15 +114,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Team Health Checks.md",
+    "Creating External Stakeholder Interfaces.md",
     "Collecting Ideas from Stakeholders & Customers.md",
-    "Feedback.md",
-    "One Way Streets.md",
-    "Product Management.md",
-    "Expectations and Career Levels for Product Managers.md",
-    "Leading Product Managers.md",
-    "Product Requirements Documents.md",
-    "Figma Product Requirements Document.md",
-    "Tactical vs Strategy and Technical vs Business.md"
+    "Bugs.md",
+    "Treat the cause, not the symptom.md",
+    "Banned words to improve your writing.md",
+    "Decisions.md",
+    "Incentives as Motivation.md",
+    "INBOX - User Research.md",
+    "INBOX - Sales.md",
+    "INBOX - Professional Services.md"
   ]
 }

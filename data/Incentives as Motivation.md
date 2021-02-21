@@ -7,4 +7,4 @@
 Similar to [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law): "When a measure becomes a target, it ceases to be a good measure." This is where incentives drive people to take action that they normally would not take or do not accomplish the end goal. 
 
 ## How to avoid these problems?
-Use multiple [[Metrics]] to determine incentives. Ideally a combination of [[Qualitative Metrics]] and [[Quantitative Metrics]]. The metrics should be selected to counteract a single incentive and the resulting bad behavior.
+Use multiple [[Types of Product Metrics]] to determine incentives. Ideally a combination of [[Qualitative Metrics]] and [[Quantitative Metrics]]. The metrics should be selected to counteract a single incentive and the resulting bad behavior.

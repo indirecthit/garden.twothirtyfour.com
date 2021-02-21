@@ -1,0 +1,4 @@
+- Be organized
+- Help them evaulate an offering
+- Send agendas, etc
+- 
